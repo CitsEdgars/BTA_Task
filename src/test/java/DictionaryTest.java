@@ -7,14 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class DictionaryTest {
 
     @Test
-    void main() {
-        //Tests the functionality as a whole
-        //Test case 1, file with "perfect" data
-        //Test case 2, file with "random" data
-        //Test case 3, empty file
-    }
-
-    @Test
     void calcPercentage() {
         //Test case 1, and the only one, as the size of the frequency array is equal due to class constants.
         //Checks the math behind calcPercentage(), with generated example values
