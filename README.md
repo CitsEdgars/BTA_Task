@@ -1,4 +1,4 @@
-# BTA_Task
+# Random_task
 Java program that receives in input a text file with characters and calculates letter frequency of all Latin alphabet letters. Then, it outputs the distribution in output.txt file.
 
 Program accepts file name with extension in variables. They need to be defined either in IDE when launching or by compiling the project in the folder and then excecuting 
